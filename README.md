@@ -30,10 +30,4 @@ This project lets you ask questions about a PDF file using a local LLM (Llama 3 
 
 ---
 
-**Example**  
-```text
-Enter your question (or 'exit' to quit): What is the main idea of the document?
-```
 
----
-```
